@@ -1,2 +1,2 @@
 # gojek
-excercise day 12
+excercise modul 2 day 2
